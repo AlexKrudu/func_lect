@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/func_lect.dir/main.cpp.o  -o func_lect 

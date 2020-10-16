@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexkrudu/CLionProjects/func_lect/function.h
+
+/home/alexkrudu/CLionProjects/func_lect/main.cpp
+functional
+-
+iostream
+-
+function.h
+/home/alexkrudu/CLionProjects/func_lect/function.h
+
